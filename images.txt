@@ -1,4 +1,5 @@
 #nginx
+apache/skywalking-java-agent:8.7.0-alpine
 skywalking.docker.scarf.sh/apache/skywalking-ui:10.1.0
 skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.1.0
 busybox:1.30
